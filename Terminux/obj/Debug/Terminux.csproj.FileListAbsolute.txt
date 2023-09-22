@@ -1,0 +1,10 @@
+C:\Users\Mohamed\source\repos\Terminux\Terminux\bin\Debug\Terminux.exe.config
+C:\Users\Mohamed\source\repos\Terminux\Terminux\bin\Debug\Terminux.exe
+C:\Users\Mohamed\source\repos\Terminux\Terminux\bin\Debug\Terminux.pdb
+C:\Users\Mohamed\source\repos\Terminux\Terminux\obj\Debug\Terminux.csproj.AssemblyReference.cache
+C:\Users\Mohamed\source\repos\Terminux\Terminux\obj\Debug\Terminux.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\source\repos\Terminux\Terminux\obj\Debug\Terminux.exe
+C:\Users\Mohamed\source\repos\Terminux\Terminux\obj\Debug\Terminux.pdb
+C:\Users\Mohamed\source\repos\Terminux\Terminux\bin\Debug\Renci.SshNet.dll
+C:\Users\Mohamed\source\repos\Terminux\Terminux\bin\Debug\Renci.SshNet.xml
+C:\Users\Mohamed\source\repos\Terminux\Terminux\obj\Debug\Terminux.csproj.CopyComplete
